@@ -1,10 +1,10 @@
-# 👨‍💻 Olá, eu sou Samuel
+# 👨‍💻 Hi, I'm Samuel
 
-🎓 **Estudante de Desenvolvimento de Software**  
-💻 Apaixonado por tecnologia, programação e criação de soluções.  
-🚀 Atualmente aprimorando minhas habilidades em desenvolvimento **Web e Backend**.
+🎓 **Software Development Student**
+💻 Passionate about technology, programming, and building solutions.
+🚀 Currently improving my skills in **Web and Backend Development**.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="left">
 
@@ -19,31 +19,41 @@
 
 </div>
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
-- 🔹 Desenvolvimento Web
-- 🔹 PHP e desenvolvimento Backend
-- 🔹 Node.js
-- 🔹 JavaScript
-- 🔹 APIs REST
-- 🔹 Banco de dados
-- 🔹 Git e GitHub
-- 🔹 Boas práticas de programação e desenvolvimento de software
+* 🔹 Web Development
+* 🔹 PHP and Backend Development
+* 🔹 Node.js
+* 🔹 JavaScript
+* 🔹 REST APIs
+* 🔹 Databases
+* 🔹 Git and GitHub
+* 🔹 Programming best practices and software development
 
-## 🚀 Projetos
+## 🚀 Projects
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, incluindo aplicações Web, APIs, exercícios práticos e projetos pessoais.
+Here you'll find projects developed throughout my learning journey, including Web applications, REST APIs, practical exercises, and personal projects.
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueleliascandinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueleliascandinho&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueleliascandinho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-## 📫 Vamos nos conectar?
+## 🔥 GitHub Streak
 
-Se você quiser trocar ideias sobre programação, tecnologia ou desenvolvimento de software, fique à vontade para entrar em contato!
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=samueleliascandinho&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+## 📫 Let's Connect!
+
+If you'd like to talk about programming, technology, or software development, feel free to reach out!
+
+I'm always open to learning, collaborating, and building new things. 🚀
