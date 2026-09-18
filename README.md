@@ -90,3 +90,4 @@ Me chamo Samuel Elias Candinho, tenho 18 anos e sou de Santa Catarina. Estou cur
 
 <br/>
 <br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3942E4,100:007CF0&height=120&section=footer&desc=FIM&fontColor=ffffff"/>
