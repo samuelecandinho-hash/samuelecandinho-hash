@@ -19,8 +19,6 @@ Me chamo Samuel Elias Candinho, tenho 18 anos e sou de Santa Catarina. Estou cur
             src="https://custom-icon-badges.demolab.com/github/followers/samuelecandinho-hash?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-<a href="https://www.linkedin.com/in/samueleliascandinho/" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" width="135" height="28" viewBox="0 0 135 28" role="img" aria-label="LinkedIn" > <rect width="135" height="28" rx="5" fill="#0A66C2"/> <rect x="6" y="6" width="16" height="16" rx="2" fill="white"/> <rect x="9" y="11" width="3" height="8" fill="#0A66C2"/> <circle cx="10.5" cy="8.5" r="1.5" fill="#0A66C2"/> <path d="M14 11h3v1.2c.7-1 1.7-1.6 3.1-1.6 2.8 0 3.9 1.8 3.9 4.5V19h-3v-3.8c0-1.1 0-2.5-1.5-2.5s-1.8 1.2-1.8 2.5V19h-3v-8z" fill="#0A66C2" /> <text x="31" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="white" >LinkedIn</text> </svg> </a>
-</p>
 
 ---
 
